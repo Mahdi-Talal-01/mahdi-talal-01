@@ -1,115 +1,141 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mahditalaldev.mahditalaldev" />
-
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=In+a+world+full+of+code,;my+creativity+is+the+syntax!+💻" /></h1>
-
-<h3 align="center">A passionate Full Stack Developer from Lebanon 🇱🇧</h3>
-
-<br/>
-
 <div align="center">
- 
- 🔭 I’m currently working as an **IT Support Specialist at UNRWA** and freelancing as a **Full-stack Web Developer**
- 
- 🌱 I’m currently improving my skills in **Node.js, Prisma, and PostgreSQL**
-
-💬 Lets talk about **React.js, Next.js, Node.js, or any of my projects [here](https://github.com/mahditalaldev)**
-
-⚡ Fun fact **I build complex senior projects for university students as a freelancer!**
-
-👋  **If you’re keen to connect, no need to delay,**
-    **Just run this command and start right away**
-
-<p align="center"> <code>npx npx-mahditalaldev</code> </p>
-
-⚡  In seconds, we’ll be connected terminal-style,
-A touch of command, and I’m here with a smile!
+  
+  <!-- Animated banner with custom typing effect -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+I'm+Mahdi+Talal+👋;A+Passionate+Full+Stack+Dev+💻;Turning+Ideas+into+Reality+✨" />
+  
+  <!-- Animated wave border -->
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg" width="100%">
+  
+  <!-- GitHub trophies showcase -->
+  <img src="https://github-profile-trophy.vercel.app/?username=mahditalaldev&theme=radical&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" alt="trophy" />
+  
+  <!-- Animated line separator -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+  <!-- GitHub stats in side-by-side layout -->
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mahditalaldev&count_private=true&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="390" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=mahditalaldev&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" width="390" />
+  
+  <!-- Animated line separator -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<div align="center"> 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+
+<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+
+- 🚀 **Full-stack Web Developer** passionate about creating impactful digital experiences
+- 💻 Specialized in **React.js** and **Next.js** for building modern, responsive frontends
+- 🌱 Continually advancing skills in **Node.js**, **Prisma**, and **PostgreSQL**
+- 🎓 Expert in developing complex projects for university students as a freelancer
+- 🏆 Transforming innovative ideas into functional products through clean code and intuitive design
+- 🌐 Based in **Lebanon** 🇱🇧 and collaborating globally on exciting projects
+
+<div align="center">
+  <h3>📬 Connect with me through code:</h3>
+  <p>
+    <kbd>npx npx-mahditalaldev</kbd>
+  </p>
+</div>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Tech Stack 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,firebase,tailwind,materialui,bootstrap,git,github,python,java,figma&perline=7" />
+  </a>
+</p>
+
+## 📊 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mahditalaldev&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" width="350" />
+</div>
+
+## 🚀 Current Learning Roadmap
+
+<details open>
+  <summary>🐍 Mastering Python & Data Structures</summary>
+  <ul>
+    <li>Advanced algorithms, computational thinking, and problem-solving approaches</li>
+    <li>Exploring data science foundations and automation possibilities</li>
+  </ul>
+</details>
+
+<details>
+  <summary>🧩 Frontend Development Excellence</summary>
+  <ul>
+    <li>TypeScript, React Advanced Patterns, and Performance Optimization</li>
+    <li>Flutter & Dart: Building cross-platform mobile applications with native feeling</li>
+    <li>Mastering UI/UX design principles for intuitive experiences</li>
+  </ul>
+</details>
+
+<details>
+  <summary>⚙️ Backend Architecture Mastery</summary>
+  <ul>
+    <li>Microservices design, API development with Express & NestJS</li>
+    <li>PHP & Laravel ecosystem: Building robust backend solutions</li>
+    <li>Database optimization, sharding, and advanced query performance</li>
+  </ul>
+</details>
+
+<details>
+  <summary>🤖 Exploring AI & Machine Learning</summary>
+  <ul>
+    <li>Fundamentals of ML algorithms and neural networks</li>
+    <li>Practical applications in web development contexts</li>
+  </ul>
+</details>
+
+## 📂 Featured Projects
+
+<div align="center">
+  <a href="https://mahditalaldev.github.io/blood-donation-system-main/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahditalaldev&repo=blood-donation-system-main&theme=tokyonight&border_color=7F3FBF&border_radius=10" alt="Blood Donation System">
+  </a>
+</div>
+
+### Blood Donation System
+A comprehensive medical donation platform improving user experience, data management, and security. Built with React, Node.js, and Firebase.
+
+#### Key Features:
+- 🩸 Real-time blood donation tracking and management
+- 🔒 Secure user authentication and privacy protection
+- 📊 Administrative dashboard with analytics
+- 📱 Responsive design for all devices
+
+## 🌐 Connect With Me
+
+<p align="center">
   <a href="mailto:mahditalal.789@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/mahditalal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://react-portfolio-fd769.web.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-</div>
-
-<hr/>
-<h2 align="center">🚀 My Learning Roadmap</h2>
-🌐 <span style="color: #4CAF50;">Step 1: Mastering Python</span>
-
-<h4>- Foundations: Strengthening my understanding of computer science fundamentals with Python.</h4> <h4>- Advanced Topics: Exploring complex algorithms, sorting techniques, and essential data structures.</h4> <details> <summary style="color: grey;">🎨 Step 2: Front-End Magic</summary> <h4>- Flutter & Dart: Building interactive, cross-platform mobile applications.</h4> <h4>- HTML, CSS & JavaScript: Sharpening my front-end skills to create sleek, responsive web designs.</h4> </details> <details> <summary style="color: grey;">🛠️ Step 3: Backend Power-Up</summary> <h4>- PHP & Laravel Framework: Enhancing backend proficiency, from data handling to API integration.</h4> <h4>- Databases & Architecture: Diving into database management and structuring robust backend systems.</h4> </details> <details> <summary style="color: grey;">🤖 Step 4: Machine Learning</summary> <h4>- Foundations: Learning the basics of machine learning, algorithms, and model training.</h4> </details>
-Stay tuned as I share projects and updates on my progress!
-
-<hr/>
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<p align="center">  
-  <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
+  <a href="https://discordapp.com/users/mahdi_talal" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-    <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=028dd1">
-  </a>
-    <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
-  </a>
-    <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&svgfill=61dafb"></a>
-    <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&svgfill=white"></a>
-  </a>
-  <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql&svgfill=336791">
-  </a><a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=47A248">
-  </a><a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=3776AB">
-  </a><a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=007396">
-  </a><a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=android&svgfill=3DDC84">
-  </a><a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgfill=563d7c">
-  </a><a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=material-ui&svgfill=0081CB">
-  </a><a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=06B6D4">
-  </a><a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=8CC84B">
-  </a><a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=FFCA28">
-  </a></p>
+</p>
 
-<hr/>
+## 📈 My Contribution Graph
 
 <div align="center">
-  <h2>📚 Featured Projects 📚</h2>
-  <ul>
-    <li><a href="https://mahditalaldev.github.io/blood-donation-system-main/" target="_blank"><b>Blood Donation System</b></a>: A medical donation platform improving UX, data management, and security. Built with React, Node.js, and Firebase.</li>
-  </ul>
+  <img src="https://github.com/mahditalaldev/mahditalaldev/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mahditalaldev&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=mahditalaldev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mahditalaldev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <h4>⚡ Fun fact: I believe every line of code should solve a real problem!</h4>
+  <p><i>"The only way to do great work is to love what you do."</i> - Steve Jobs</p>
+  <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'>
+    <img height='45' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' alt='Buy Me a Coffee at ko-fi.com' />
+  </a>
+  
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=mahditalaldev&style=for-the-badge&color=blue" alt="Profile Views"/>
 </div>
+
