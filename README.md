@@ -16,9 +16,7 @@
 
 <!-- ABOUT ME SECTION -->
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
-  About Me
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+  👨‍💻 About Me 👨‍💻
 </h1>
 
 <div>
@@ -40,9 +38,7 @@
 
 <!-- TECH STACK SECTION -->
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122345-9e8c3f55-0a4e-499f-a89a-c9fdc2a4725c.png" width="30" />
-  Tech Stack & Tools
-  <img src="https://user-images.githubusercontent.com/74038190/216122345-9e8c3f55-0a4e-499f-a89a-c9fdc2a4725c.png" width="30" />
+  🛠️ Tech Stack & Tools 🛠️
 </h1>
 
 <div align="center">
@@ -65,9 +61,7 @@
 
 <!-- GITHUB STATS SECTION -->
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122039-1c7d9c9a-1d31-4962-b738-6041e9ecdfe0.png" width="30" />
-  GitHub Stats
-  <img src="https://user-images.githubusercontent.com/74038190/216122039-1c7d9c9a-1d31-4962-b738-6041e9ecdfe0.png" width="30" />
+  📊 GitHub Stats 📊
 </h1>
 
 <div align="center">
@@ -89,9 +83,7 @@
 
 <!-- PROJECTS SECTION -->
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122469-216ac5b3-f222-4b11-9df4-0851a0b8f293.png" width="30" />
-  Featured Projects
-  <img src="https://user-images.githubusercontent.com/74038190/216122469-216ac5b3-f222-4b11-9df4-0851a0b8f293.png" width="30" />
+  💻 Featured Projects 💻
 </h1>
 
 <div align="center">
@@ -171,9 +163,7 @@
 
 <!-- LEARNING ROADMAP SECTION -->
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122448-af9f96d0-05d9-47cc-a550-d8611f6bf87b.png" width="30" />
-  Learning Journey
-  <img src="https://user-images.githubusercontent.com/74038190/216122448-af9f96d0-05d9-47cc-a550-d8611f6bf87b.png" width="30" />
+  📚 Learning Journey 📚
 </h1>
 
 <div align="center">
@@ -212,9 +202,7 @@
 
 <!-- CONNECT SECTION -->
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216121986-c7642c9a-be96-4732-a857-33e4136b1b5c.png" width="30" />
-  Let's Connect
-  <img src="https://user-images.githubusercontent.com/74038190/216121986-c7642c9a-be96-4732-a857-33e4136b1b5c.png" width="30" />
+  🌐 Let's Connect 🌐
 </h1>
 
 <div align="center">
