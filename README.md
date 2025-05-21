@@ -1,54 +1,49 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=&height=120&section=header&animation=fadeIn"/>
-</div>
+  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%"/>
+  
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=7AF79A&size=40&center=true&vCenter=true&width=800&height=80&duration=3000&lines=Hello+There!+👋;I'm+Mahdi+Talal!;Full-Stack+Developer+💻;AI+Enthusiast+and+Problem+Solver+🤖;Turning+Ideas+into+Reality+✨" alt="Typing SVG" />
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=40&center=true&vCenter=true&width=800&height=80&duration=3000&lines=Hello+There!+👋;I'm+Mahdi+Talal!;Full-Stack+Developer+💻;AI+Enthusiast+and+Problem+Solver+🤖;Turning+Ideas+into+Reality+✨" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahdi-talal-01&theme=radical&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" alt="Trophy" />
-</p>
-
-<!-- Animated wave border -->
-<div align="center">
+  <div align="center"> 
+    <a href="mailto:mahditalal.789@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://linkedin.com/in/mahditalal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://react-portfolio-fd769.web.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+    <a href="https://discordapp.com/users/mahdi_talal"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  </div>
+  
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<!-- About Me Section -->
-<div align="center">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=mahdi-talal-01&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  
-  <div align="left" width="45%">
-    <h2>👨‍💻 About Me</h2>
-    <ul>
-      <li>🚀 <b>Full-Stack Web Developer</b> passionate about creating impactful digital experiences</li>
-      <li>💻 Specialized in <b>React.js</b>, <b>Next.js</b>, and <b>Node.js</b> ecosystem</li>
-      <li>🌱 Currently exploring AI integration and cloud architecture</li>
-      <li>🏆 Transforming complex ideas into elegant solutions</li>
-      <li>🌐 Based in <b>Lebanon</b> 🇱🇧 and collaborating globally</li>
-      <li>💬 Ask me about <b>Web Development</b>, <b>UI/UX</b>, or <b>AI Integration</b></li>
-    </ul>
-  </div>
-</div>
+<!-- ABOUT ME SECTION -->
+<h1 align="center">
+  👨‍💻 About Me 👨‍💻
+</h1>
 
-<p align="center">
-  <a href="mailto:mahditalal.789@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/mahditalal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://react-portfolio-fd769.web.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://discordapp.com/users/mahdi_talal" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://github.com/mahdi-talal-01">
-    <img src="https://komarev.com/ghpvc/?username=mahdi-talal-01&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="70%">
+      <p>
+        I'm a passionate <b>Full Stack Developer</b> with a strong interest in creating impactful digital experiences that solve real-world problems. My journey in tech is driven by curiosity and a desire to continuously grow.
+      </p>
+      <ul>
+        <li>🚀 Building modern web applications with React, Next.js, and Node.js ecosystems</li>
+        <li>💡 Transforming complex problems into elegant, scalable solutions</li>
+        <li>🌱 Currently advancing my skills in system architecture and AI integration</li>
+        <li>🌐 Based in Lebanon 🇱🇧 and collaborating globally on impactful projects</li>
+        <li>🎯 Mission: Creating software that makes a meaningful difference</li>
+      </ul>
+    </td>
+    <td width="30%">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=mahdi-talal-01&show_icons=true&theme=radical&hide_border=true" width="100%">
+      </div>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
 
 <!-- Skills Section -->
 <div align="center">
@@ -124,34 +119,39 @@
 <div align="center">
   <h2>💻 Featured Projects</h2>
   
-  <!-- Next Step Assistant -->
-  <div style="width: 100%; background-color: #0D1117; border-radius: 16px; padding: 20px; margin-bottom: 20px;">
-    <h3 style="color: #E6EDF3;">🚀 Next Step Assistant</h3>
+  <!-- FEATURED PROJECTS -->
+  <h1 align="center">
+    💻 Featured Projects 💻
+  </h1>
+
+  <div align="center">
     <a href="https://github.com/mahdi-talal-01/next-step-assistant">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdi-talal-01&repo=next-step-assistant&theme=radical&hide_border=true&bg_color=0D1117" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdi-talal-01&repo=next-step-assistant&theme=tokyonight&border_color=7F3FBF&border_radius=10" alt="Next Step Assistant" />
     </a>
+    <a href="https://mahdi-talal-01.github.io/blood-donation-system-main/">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdi-talal-01&repo=blood-donation-system-main&theme=tokyonight&border_color=7F3FBF&border_radius=10" alt="Blood Donation System" />
+    </a>
+  </div>
+
+  <!-- NEXT STEP ASSISTANT PROJECT -->
+  <div align="center">
+    <h2>🚀 Next Step Assistant</h2>
     <p>AI-powered career acceleration platform combining job tracking, skill development, and AI-driven content creation.</p>
-    
-    <h4>Key Features</h4>
-    <ul style="list-style-type: none; padding-left: 0;">
-      <li>🤖 <b>AI Content Generation:</b> Auto-creates professional job descriptions, LinkedIn posts, and emails</li>
-      <li>📊 <b>Career Guidance:</b> AI-powered personalized career recommendations and skill analysis</li>
-      <li>📧 <b>Smart Email Tracking:</b> Automatically monitors and categorizes job application emails</li>
-      <li>📈 <b>Advanced Analytics:</b> Market trend analysis and personalized skill gap recommendations</li>
-    </ul>
-    
-    <h4>Tech Stack</h4>
-    <p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
-    </p>
-    
+  </div>
+
+  ### Key Features:
+  - 🤖 **AI Content Generation:** Auto-creates professional job descriptions, LinkedIn posts, and emails
+  - 📊 **Career Guidance:** AI-powered personalized career recommendations and skill analysis
+  - 📧 **Smart Email Tracking:** Automatically monitors and categorizes job application emails
+  - 📈 **Advanced Analytics:** Market trend analysis and personalized skill gap recommendations
+
+  ### Tech Stack:
+  - ⚛️ **Frontend:** React/Next.js with Tailwind CSS for responsive UI
+  - 🖥️ **Backend:** Node.js/Express with Prisma ORM for type-safe database access
+  - 🧠 **AI Integration:** Custom ML models for personalized recommendations
+  - ☁️ **Deployment:** AWS (EC2, S3) with Docker containerization
+
+  <div align="center">
     <a href="https://fse-final-mahdi.s3-website.eu-west-3.amazonaws.com/" target="_blank">
       <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
     </a>
@@ -159,32 +159,26 @@
       <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
     </a>
   </div>
-  
-  <!-- Blood Donation System -->
-  <div style="width: 100%; background-color: #0D1117; border-radius: 16px; padding: 20px; margin-bottom: 20px;">
-    <h3 style="color: #E6EDF3;">💉 Blood Donation System</h3>
-    <a href="https://github.com/mahdi-talal-01/blood-donation-system-main">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdi-talal-01&repo=blood-donation-system-main&theme=radical&hide_border=true&bg_color=0D1117" />
-    </a>
+
+  <!-- BLOOD DONATION SYSTEM PROJECT -->
+  <div align="center">
+    <h2>💉 Blood Donation System</h2>
     <p>Comprehensive medical donation platform improving user experience, data management, and security.</p>
-    
-    <h4>Key Features</h4>
-    <ul style="list-style-type: none; padding-left: 0;">
-      <li>🩸 <b>Real-time Tracking:</b> Live blood donation management and status updates</li>
-      <li>🔒 <b>Secure Authentication:</b> Role-based access control and data protection</li>
-      <li>📊 <b>Administrative Dashboard:</b> Comprehensive analytics and reporting system</li>
-      <li>📱 <b>Responsive Design:</b> Optimized user experience across all devices</li>
-    </ul>
-    
-    <h4>Tech Stack</h4>
-    <p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
-    </p>
-    
+  </div>
+
+  ### Key Features:
+  - 🩸 **Real-time Tracking:** Live blood donation management and status updates
+  - 🔒 **Secure Authentication:** Role-based access control and data protection
+  - 📊 **Administrative Dashboard:** Comprehensive analytics and reporting system
+  - 📱 **Responsive Design:** Optimized user experience across all devices
+
+  ### Tech Stack:
+  - ⚛️ **Frontend:** React with responsive UI components
+  - 🔥 **Backend:** Node.js with Firebase Realtime Database
+  - 🔐 **Authentication:** Firebase Authentication with email verification
+  - 📊 **Analytics:** Custom-built dashboard with real-time stats
+
+  <div align="center">
     <a href="https://mahdi-talal-01.github.io/blood-donation-system-main/" target="_blank">
       <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
     </a>
@@ -194,41 +188,45 @@
   </div>
 </div>
 
-<!-- Learning Journey Section -->
+<!-- LEARNING ROADMAP SECTION -->
+<h1 align="center">
+  📚 Learning Journey 📚
+</h1>
+
 <div align="center">
-  <h2>📚 Learning Journey</h2>
-  
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300px" />
-  
-  <div align="left" style="width: 60%;">
-    <h3>🐍 Advanced Python & Data Science</h3>
-    <ul>
-      <li>Machine Learning algorithms and implementations</li>
-      <li>Data visualization and analysis techniques</li>
-      <li>Deep Learning fundamentals with PyTorch</li>
-    </ul>
-    
-    <h3>🧩 Frontend Architecture</h3>
-    <ul>
-      <li>React performance optimization strategies</li>
-      <li>Design patterns and best practices</li>
-      <li>Modern state management approaches</li>
-    </ul>
-    
-    <h3>⚙️ System Design & Architecture</h3>
-    <ul>
-      <li>Scalable microservices architecture</li>
-      <li>Cloud-native application development</li>
-      <li>Distributed systems fundamentals</li>
-    </ul>
-    
-    <h3>🤖 Artificial Intelligence</h3>
-    <ul>
-      <li>Natural Language Processing applications</li>
-      <li>AI model integration with web applications</li>
-      <li>Building practical AI-powered solutions</li>
-    </ul>
-  </div>
+  <table>
+    <tr>
+      <td width="60%" valign="top">
+        <h3>🐍 Mastering Python & Data Structures</h3>
+        <ul>
+          <li>Advanced algorithms and computational thinking</li>
+          <li>Data science foundations with pandas and NumPy</li>
+          <li>Machine learning basics with scikit-learn</li>
+        </ul>
+        <h3>🧩 Frontend Development Excellence</h3>
+        <ul>
+          <li>TypeScript and React design patterns</li>
+          <li>Performance optimization techniques</li>
+          <li>Modern UI/UX principles and implementation</li>
+        </ul>
+        <h3>⚙️ Backend Architecture Mastery</h3>
+        <ul>
+          <li>Microservices design patterns</li>
+          <li>API development with Express & NestJS</li>
+          <li>Database optimization strategies</li>
+        </ul>
+        <h3>🤖 AI & Machine Learning</h3>
+        <ul>
+          <li>Neural networks and deep learning concepts</li>
+          <li>Natural language processing applications</li>
+          <li>AI integration in web applications</li>
+        </ul>
+      </td>
+      <td width="40%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="80%">
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Quote & Connect Section -->
