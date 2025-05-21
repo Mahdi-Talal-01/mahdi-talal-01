@@ -1,144 +1,225 @@
+<!-- HEADER SECTION -->
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%"/>
   
-  <!-- Animated banner with custom typing effect -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+I'm+Mahdi+Talal+👋;A+Passionate+Full+Stack+Dev+💻;Turning+Ideas+into+Reality+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=7AF79A&size=40&center=true&vCenter=true&width=800&height=80&duration=3000&lines=Hello+There!+👋;I'm+Mahdi+Talal!;Full-Stack+Developer+💻;AI+Enthusiast+and+Problem+Solver+🤖;Turning+Ideas+into+Reality+✨" alt="Typing SVG" />
+
+  <div align="center"> 
+    <a href="mailto:mahditalal.789@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://linkedin.com/in/mahditalal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://react-portfolio-fd769.web.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+    <a href="https://discordapp.com/users/mahdi_talal"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  </div>
   
-  <!-- Animated coding image -->
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
-  
-  <!-- Animated wave border -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-  
-  <!-- GitHub trophies showcase -->
-  <img src="https://github-profile-trophy.vercel.app/?username=mahdi-talal-01&theme=radical&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" alt="trophy" />
-  
-  <!-- Animated line separator -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-  <!-- GitHub stats in side-by-side layout -->
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mahdi-talal-01&count_private=true&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="390" />
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=mahdi-talal-01&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" width="390" />
-  
-  <!-- Animated line separator -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+<!-- ABOUT ME SECTION -->
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+  About Me
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+</h1>
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-<img align="left" alt="Coding" width="150" src="https://user-images.githubusercontent.com/74038190/212741999-036ae4a8-a301-4c0f-a541-0267a3e52e54.gif">
-
-- 🚀 **Full-stack Web Developer** passionate about creating impactful digital experiences
-- 💻 Specialized in **React.js** and **Next.js** for building modern, responsive frontends
-- 🌱 Continually advancing skills in **Node.js**, **Prisma**, and **PostgreSQL**
-- 🎓 Expert in developing complex projects for university students as a freelancer
-- 🏆 Transforming innovative ideas into functional products through clean code and intuitive design
-- 🌐 Based in **Lebanon** 🇱🇧 and collaborating globally on exciting projects
-
-<div align="center">
-  <h3>📬 Connect with me through code:</h3>
-  <p>
-    <kbd>npx npx-mahdi-talal-01</kbd>
+<div>
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320">
+  <p align="left">
+    I'm a passionate <b>Full Stack Developer</b> with a strong interest in creating impactful digital experiences that solve real-world problems. My journey in tech is driven by curiosity and a desire to continuously grow.
+    <br><br>
+    🚀 Building modern web applications with React, Next.js, and Node.js ecosystems<br>
+    💡 Transforming complex problems into elegant, scalable solutions<br>
+    🌱 Currently advancing my skills in system architecture and AI integration<br>
+    🌐 Based in Lebanon 🇱🇧 and collaborating globally on impactful projects<br>
+    🎯 Mission: Creating software that makes a meaningful difference
   </p>
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Tech Stack 
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,firebase,tailwind,materialui,bootstrap,git,github,python,java,figma&perline=7" />
-  </a>
-</p>
-
-## 📊 Most Used Languages
-
 <div align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mahdi-talal-01&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" width="350" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
-## 🚀 Current Learning Roadmap
-
-<details open>
-  <summary>🐍 Mastering Python & Data Structures</summary>
-  <ul>
-    <li>Advanced algorithms, computational thinking, and problem-solving approaches</li>
-    <li>Exploring data science foundations and automation possibilities</li>
-  </ul>
-</details>
-
-<details>
-  <summary>🧩 Frontend Development Excellence</summary>
-  <ul>
-    <li>TypeScript, React Advanced Patterns, and Performance Optimization</li>
-    <li>Flutter & Dart: Building cross-platform mobile applications with native feeling</li>
-    <li>Mastering UI/UX design principles for intuitive experiences</li>
-  </ul>
-</details>
-
-<details>
-  <summary>⚙️ Backend Architecture Mastery</summary>
-  <ul>
-    <li>Microservices design, API development with Express & NestJS</li>
-    <li>PHP & Laravel ecosystem: Building robust backend solutions</li>
-    <li>Database optimization, sharding, and advanced query performance</li>
-  </ul>
-</details>
-
-<details>
-  <summary>🤖 Exploring AI & Machine Learning</summary>
-  <ul>
-    <li>Fundamentals of ML algorithms and neural networks</li>
-    <li>Practical applications in web development contexts</li>
-  </ul>
-</details>
-
-## 📂 Featured Projects
+<!-- TECH STACK SECTION -->
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122345-9e8c3f55-0a4e-499f-a89a-c9fdc2a4725c.png" width="30" />
+  Tech Stack & Tools
+  <img src="https://user-images.githubusercontent.com/74038190/216122345-9e8c3f55-0a4e-499f-a89a-c9fdc2a4725c.png" width="30" />
+</h1>
 
 <div align="center">
-  <a href="https://mahdi-talal-01.github.io/blood-donation-system-main/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdi-talal-01&repo=blood-donation-system-main&theme=tokyonight&border_color=7F3FBF&border_radius=10" alt="Blood Donation System">
-  </a>
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,materialui,bootstrap" />
   
+  <h3>Backend</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,firebase,supabase" />
+  
+  <h3>Databases</h3>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite" />
+  
+  <h3>DevOps & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,vscode,figma,postman" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<!-- GITHUB STATS SECTION -->
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122039-1c7d9c9a-1d31-4962-b738-6041e9ecdfe0.png" width="30" />
+  GitHub Stats
+  <img src="https://user-images.githubusercontent.com/74038190/216122039-1c7d9c9a-1d31-4962-b738-6041e9ecdfe0.png" width="30" />
+</h1>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi-talal-01&theme=tokyonight&hide_border=true&border_radius=10" alt="streak" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahdi-talal-01&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="stats" width="400" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahdi-talal-01&theme=radical&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" alt="trophy" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-talal-01&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="languages" width="400" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/mahdi-talal-01/mahdi-talal-01/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<!-- PROJECTS SECTION -->
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122469-216ac5b3-f222-4b11-9df4-0851a0b8f293.png" width="30" />
+  Featured Projects
+  <img src="https://user-images.githubusercontent.com/74038190/216122469-216ac5b3-f222-4b11-9df4-0851a0b8f293.png" width="30" />
+</h1>
+
+<div align="center">
   <a href="https://github.com/mahdi-talal-01/next-step-assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdi-talal-01&repo=next-step-assistant&theme=tokyonight&border_color=7F3FBF&border_radius=10" alt="Next Step Assistant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdi-talal-01&repo=next-step-assistant&theme=tokyonight&border_color=7F3FBF&border_radius=10" alt="Next Step Assistant" />
+  </a>
+  <a href="https://mahdi-talal-01.github.io/blood-donation-system-main/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdi-talal-01&repo=blood-donation-system-main&theme=tokyonight&border_color=7F3FBF&border_radius=10" alt="Blood Donation System" />
   </a>
 </div>
 
-### Blood Donation System
-A comprehensive medical donation platform improving user experience, data management, and security. Built with React, Node.js, and Firebase.
+<!-- NEXT STEP ASSISTANT PROJECT -->
+<div align="center">
+  <h2>🚀 Next Step Assistant</h2>
+  <p>AI-powered career acceleration platform combining job tracking, skill development, and AI-driven content creation.</p>
+  
+  <div align="left">
+  <h3>Key Features:</h3>
+  <ul>
+    <li>🤖 <b>AI Content Generation:</b> Auto-creates professional job descriptions, LinkedIn posts, and emails</li>
+    <li>📊 <b>Career Guidance:</b> AI-powered personalized career recommendations and skill analysis</li>
+    <li>📧 <b>Smart Email Tracking:</b> Automatically monitors and categorizes job application emails</li>
+    <li>📈 <b>Advanced Analytics:</b> Market trend analysis and personalized skill gap recommendations</li>
+  </ul>
+  
+  <h3>Tech Stack:</h3>
+  <ul>
+    <li>⚛️ <b>Frontend:</b> React/Next.js with Tailwind CSS for responsive UI</li>
+    <li>🖥️ <b>Backend:</b> Node.js/Express with Prisma ORM for type-safe database access</li>
+    <li>🧠 <b>AI Integration:</b> Custom ML models for personalized recommendations</li>
+    <li>☁️ <b>Deployment:</b> AWS (EC2, S3) with Docker containerization</li>
+  </ul>
+  </div>
+  
+  <div align="center">
+    <a href="https://fse-final-mahdi.s3-website.eu-west-3.amazonaws.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
+    </a>
+    <a href="https://github.com/mahdi-talal-01/next-step-assistant" target="_blank">
+      <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+    </a>
+  </div>
+</div>
 
-#### Key Features:
-- 🩸 Real-time blood donation tracking and management
-- 🔒 Secure user authentication and privacy protection
-- 📊 Administrative dashboard with analytics
-- 📱 Responsive design for all devices
+<!-- BLOOD DONATION SYSTEM PROJECT -->
+<div align="center">
+  <h2>💉 Blood Donation System</h2>
+  <p>Comprehensive medical donation platform improving user experience, data management, and security.</p>
+  
+  <div align="left">
+  <h3>Key Features:</h3>
+  <ul>
+    <li>🩸 <b>Real-time Tracking:</b> Live blood donation management and status updates</li>
+    <li>🔒 <b>Secure Authentication:</b> Role-based access control and data protection</li>
+    <li>📊 <b>Administrative Dashboard:</b> Comprehensive analytics and reporting system</li>
+    <li>📱 <b>Responsive Design:</b> Optimized user experience across all devices</li>
+  </ul>
+  
+  <h3>Tech Stack:</h3>
+  <ul>
+    <li>⚛️ <b>Frontend:</b> React with responsive UI components</li>
+    <li>🔥 <b>Backend:</b> Node.js with Firebase Realtime Database</li>
+    <li>🔐 <b>Authentication:</b> Firebase Authentication with email verification</li>
+    <li>📊 <b>Analytics:</b> Custom-built dashboard with real-time stats</li>
+  </ul>
+  </div>
+  
+  <div align="center">
+    <a href="https://mahdi-talal-01.github.io/blood-donation-system-main/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
+    </a>
+    <a href="https://github.com/mahdi-talal-01/blood-donation-system-main" target="_blank">
+      <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+    </a>
+  </div>
+</div>
 
-### Next Step Assistant
-An AI-powered career acceleration platform that helps professionals navigate their career journey. It combines job tracking, skill development, and AI-driven content creation into one unified dashboard.
+<!-- LEARNING ROADMAP SECTION -->
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122448-af9f96d0-05d9-47cc-a550-d8611f6bf87b.png" width="30" />
+  Learning Journey
+  <img src="https://user-images.githubusercontent.com/74038190/216122448-af9f96d0-05d9-47cc-a550-d8611f6bf87b.png" width="30" />
+</h1>
 
-#### Key Features:
-- 🤖 Intelligent content generation (job descriptions, LinkedIn posts, emails)
-- 📊 AI-powered career guidance with personalized recommendations
-- 📧 Smart email processing to track job applications
-- 📈 Advanced analytics for market trends and skills gap analysis
-- 🔄 Automated learning roadmaps based on skill analysis
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300" align="right" />
+  
+  <div align="left" style="width: 60%;">
+    <h3>🐍 Mastering Python & Data Structures</h3>
+    <ul>
+      <li>Advanced algorithms and computational thinking</li>
+      <li>Data science foundations with pandas and NumPy</li>
+      <li>Machine learning basics with scikit-learn</li>
+    </ul>
+    
+    <h3>🧩 Frontend Development Excellence</h3>
+    <ul>
+      <li>TypeScript and React design patterns</li>
+      <li>Performance optimization techniques</li>
+      <li>Modern UI/UX principles and implementation</li>
+    </ul>
+    
+    <h3>⚙️ Backend Architecture Mastery</h3>
+    <ul>
+      <li>Microservices design patterns</li>
+      <li>API development with Express & NestJS</li>
+      <li>Database optimization strategies</li>
+    </ul>
+    
+    <h3>🤖 AI & Machine Learning</h3>
+    <ul>
+      <li>Neural networks and deep learning concepts</li>
+      <li>Natural language processing applications</li>
+      <li>AI integration in web applications</li>
+    </ul>
+  </div>
+</div>
 
-#### Technologies:
-- React/Next.js frontend with Tailwind CSS
-- Node.js/Express backend with Prisma ORM
-- MySQL database
-- AI integration with custom ML models
-- Gmail API for email processing
-- AWS deployment (EC2, S3)
-- Docker containerization
-- GitHub Actions CI/CD pipeline
+<!-- CONNECT SECTION -->
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216121986-c7642c9a-be96-4732-a857-33e4136b1b5c.png" width="30" />
+  Let's Connect
+  <img src="https://user-images.githubusercontent.com/74038190/216121986-c7642c9a-be96-4732-a857-33e4136b1b5c.png" width="30" />
+</h1>
 
-[Live Demo](https://fse-final-mahdi.s3-website.eu-west-3.amazonaws.com/) | [Repository](https://github.com/Mahdi-Talal-01/next-step-assistant)
-
-## 🌐 Connect With Me
-
-<p align="center">
+<div align="center">
+  <p>Feel free to reach out for collaborations, opportunities, or just a tech chat!</p>
+  
   <a href="mailto:mahditalal.789@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -151,24 +232,26 @@ An AI-powered career acceleration platform that helps professionals navigate the
   <a href="https://discordapp.com/users/mahdi_talal" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-</p>
+  
+  <div align="center">
+    <h4>⚡ Fun fact: I believe every line of code should solve a real problem!</h4>
+    <p><i>"The only way to do great work is to love what you do."</i> - Steve Jobs</p>
+    <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'>
+      <img height='45' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' alt='Buy Me a Coffee at ko-fi.com' />
+    </a>
+  </div>
+</div>
 
-## 📈 My Contribution Graph
-
+<!-- FOOTER SECTION -->
 <div align="center">
-  <img src="https://github.com/mahdi-talal-01/mahdi-talal-01/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=mahdi-talal-01&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <br/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="coding animation">
 </div>
 
 <div align="center">
-  <h4>⚡ Fun fact: I believe every line of code should solve a real problem!</h4>
-  <p><i>"The only way to do great work is to love what you do."</i> - Steve Jobs</p>
-  <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'>
-    <img height='45' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' alt='Buy Me a Coffee at ko-fi.com' />
-  </a>
-  
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=mahdi-talal-01&style=for-the-badge&color=blue" alt="Profile Views"/>
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="coding animation">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
 
