@@ -3,18 +3,21 @@
   <!-- Animated banner with custom typing effect -->
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+I'm+Mahdi+Talal+👋;A+Passionate+Full+Stack+Dev+💻;Turning+Ideas+into+Reality+✨" />
   
+  <!-- Animated coding image -->
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
+  
   <!-- Animated wave border -->
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
   
   <!-- GitHub trophies showcase -->
-  <img src="https://github-profile-trophy.vercel.app/?username=mahditalaldev&theme=radical&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mahdi-talal-01&theme=radical&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" alt="trophy" />
   
   <!-- Animated line separator -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
   <!-- GitHub stats in side-by-side layout -->
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mahditalaldev&count_private=true&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="390" />
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=mahditalaldev&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" width="390" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mahdi-talal-01&count_private=true&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="390" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=mahdi-talal-01&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" width="390" />
   
   <!-- Animated line separator -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -22,7 +25,9 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+<img align="left" alt="Coding" width="150" src="https://user-images.githubusercontent.com/74038190/212741999-036ae4a8-a301-4c0f-a541-0267a3e52e54.gif">
 
 - 🚀 **Full-stack Web Developer** passionate about creating impactful digital experiences
 - 💻 Specialized in **React.js** and **Next.js** for building modern, responsive frontends
@@ -34,7 +39,7 @@
 <div align="center">
   <h3>📬 Connect with me through code:</h3>
   <p>
-    <kbd>npx npx-mahditalaldev</kbd>
+    <kbd>npx npx-mahdi-talal-01</kbd>
   </p>
 </div>
 
@@ -49,7 +54,7 @@
 ## 📊 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mahditalaldev&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" width="350" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mahdi-talal-01&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" width="350" />
 </div>
 
 ## 🚀 Current Learning Roadmap
@@ -91,8 +96,12 @@
 ## 📂 Featured Projects
 
 <div align="center">
-  <a href="https://mahditalaldev.github.io/blood-donation-system-main/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahditalaldev&repo=blood-donation-system-main&theme=tokyonight&border_color=7F3FBF&border_radius=10" alt="Blood Donation System">
+  <a href="https://mahdi-talal-01.github.io/blood-donation-system-main/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdi-talal-01&repo=blood-donation-system-main&theme=tokyonight&border_color=7F3FBF&border_radius=10" alt="Blood Donation System">
+  </a>
+  
+  <a href="https://github.com/mahdi-talal-01/next-step-assistant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdi-talal-01&repo=next-step-assistant&theme=tokyonight&border_color=7F3FBF&border_radius=10" alt="Next Step Assistant">
   </a>
 </div>
 
@@ -104,6 +113,28 @@ A comprehensive medical donation platform improving user experience, data manage
 - 🔒 Secure user authentication and privacy protection
 - 📊 Administrative dashboard with analytics
 - 📱 Responsive design for all devices
+
+### Next Step Assistant
+An AI-powered career acceleration platform that helps professionals navigate their career journey. It combines job tracking, skill development, and AI-driven content creation into one unified dashboard.
+
+#### Key Features:
+- 🤖 Intelligent content generation (job descriptions, LinkedIn posts, emails)
+- 📊 AI-powered career guidance with personalized recommendations
+- 📧 Smart email processing to track job applications
+- 📈 Advanced analytics for market trends and skills gap analysis
+- 🔄 Automated learning roadmaps based on skill analysis
+
+#### Technologies:
+- React/Next.js frontend with Tailwind CSS
+- Node.js/Express backend with Prisma ORM
+- MySQL database
+- AI integration with custom ML models
+- Gmail API for email processing
+- AWS deployment (EC2, S3)
+- Docker containerization
+- GitHub Actions CI/CD pipeline
+
+[Live Demo](https://fse-final-mahdi.s3-website.eu-west-3.amazonaws.com/) | [Repository](https://github.com/Mahdi-Talal-01/next-step-assistant)
 
 ## 🌐 Connect With Me
 
@@ -136,6 +167,8 @@ A comprehensive medical donation platform improving user experience, data manage
   </a>
   
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=mahditalaldev&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=mahdi-talal-01&style=for-the-badge&color=blue" alt="Profile Views"/>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="coding animation">
 </div>
 
