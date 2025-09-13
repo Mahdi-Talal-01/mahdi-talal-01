@@ -188,46 +188,6 @@
   </div>
 </div>
 
-<!-- LEARNING ROADMAP SECTION -->
-<h1 align="center">
-  📚 Learning Journey 📚
-</h1>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="60%" valign="top">
-        <h3>🐍 Mastering Python & Data Structures</h3>
-        <ul>
-          <li>Advanced algorithms and computational thinking</li>
-          <li>Data science foundations with pandas and NumPy</li>
-          <li>Machine learning basics with scikit-learn</li>
-        </ul>
-        <h3>🧩 Frontend Development Excellence</h3>
-        <ul>
-          <li>TypeScript and React design patterns</li>
-          <li>Performance optimization techniques</li>
-          <li>Modern UI/UX principles and implementation</li>
-        </ul>
-        <h3>⚙️ Backend Architecture Mastery</h3>
-        <ul>
-          <li>Microservices design patterns</li>
-          <li>API development with Express & NestJS</li>
-          <li>Database optimization strategies</li>
-        </ul>
-        <h3>🤖 AI & Machine Learning</h3>
-        <ul>
-          <li>Neural networks and deep learning concepts</li>
-          <li>Natural language processing applications</li>
-          <li>AI integration in web applications</li>
-        </ul>
-      </td>
-      <td width="40%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="80%">
-      </td>
-    </tr>
-  </table>
-</div>
 
 <!-- Quote & Connect Section -->
 <div align="center">
