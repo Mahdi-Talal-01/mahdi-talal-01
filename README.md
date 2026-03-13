@@ -1,227 +1,221 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%"/>
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=7AF79A&size=40&center=true&vCenter=true&width=800&height=80&duration=3000&lines=Hello+There!+👋;I'm+Mahdi+Talal!;Full-Stack+Developer+💻;AI+Enthusiast+and+Problem+Solver+🤖;Turning+Ideas+into+Reality+✨" alt="Typing SVG" />
 
-  <div align="center"> 
-    <a href="mailto:mahditalal.789@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://linkedin.com/in/mahditalal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://mahditalal.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-    <a href="https://discordapp.com/users/mahdi_talal"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  </div>
-  
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey%2C+I'm+Mahdi+Talal+%F0%9F%91%8B;Full-Stack+Developer+%7C+AI+Builder+%7C+Automation+Nerd" alt="Typing SVG" />
+
+  <p>
+    <a href="mailto:mahditalal.789@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/mahditalal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://mahditalal.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="https://discordapp.com/users/mahdi_talal"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  </p>
+
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<!-- ABOUT ME SECTION -->
-<h1 align="center">
-  👨‍💻 About Me 👨‍💻
-</h1>
+## About Me
 
-<table>
-  <tr>
-    <td width="70%">
-      <p>
-        I'm a passionate <b>Full Stack Developer</b> with a strong interest in creating impactful digital experiences that solve real-world problems. My journey in tech is driven by curiosity and a desire to continuously grow.
-      </p>
-      <ul>
-        <li>🚀 Building modern web applications with React, Next.js, and Node.js ecosystems</li>
-        <li>💡 Transforming complex problems into elegant, scalable solutions</li>
-        <li>🌱 Currently advancing my skills in system architecture and AI integration</li>
-        <li>🌐 Based in Lebanon 🇱🇧 and collaborating globally on impactful projects</li>
-        <li>🎯 Mission: Creating software that makes a meaningful difference</li>
-      </ul>
-    </td>
-    <td width="30%">
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=mahdi-talal-01&show_icons=true&theme=radical&hide_border=true" width="100%">
-      </div>
-    </td>
-  </tr>
-</table>
+I'm a **Full-Stack Developer** from Lebanon who builds production-grade web apps, AI-powered tools, and automation workflows. I focus on solving real problems with clean architecture, real-time features, and smart AI integrations.
+
+- Building full-stack SaaS platforms with **Next.js 16**, **React 19**, and **TypeScript**
+- Integrating AI (Claude, OpenAI) into real products — not just wrappers
+- Automating everything with **n8n** (2000+ workflow templates and counting)
+- Shipping to production with **Docker**, **CI/CD**, and **Vercel**
+- Based in **Lebanon** and working on global projects
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
-<!-- Skills Section -->
+## Tech Stack
+
 <div align="center">
-  <h2>🛠️ Skills & Technologies</h2>
-  
-  <h3>💻 Programming Languages</h3>
-  <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  </p>
-  
-  <h3>🚀 Frameworks & Libraries</h3>
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  </p>
-  
-  <h3>🧰 Tools & Platforms</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  </p>
-  
-  <h3>💾 Databases</h3>
-  <p>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  </p>
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logo=recharts&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+**AI & Automation**
+
+![Claude AI](https://img.shields.io/badge/Claude_AI-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+
 </div>
 
-<!-- GitHub Stats Section -->
 <div align="center">
-  <h2>📊 GitHub Statistics</h2>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi-talal-01&theme=radical&hide_border=true&background=0D1117" alt="Mahdi's GitHub streak" width="700px" />
-  </a>
-  
-  <div style="display: flex; justify-content: space-between; margin-top: 20px;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-talal-01&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="335px" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdi-talal-01&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="400px" />
-    </a>
-  </div>
-  
-  <img src="https://github.com/mahdi-talal-01/mahdi-talal-01/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-  
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdi-talal-01&theme=react-dark&hide_border=true" width="100%" />
-  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
-<!-- Featured Projects Section -->
+## Featured Project
+
 <div align="center">
-  <h2>💻 Featured Projects</h2>
-  
-  <!-- FEATURED PROJECTS -->
-  <h1 align="center">
-    💻 Featured Projects 💻
-  </h1>
 
-  <div align="center">
-    <a href="https://github.com/mahdi-talal-01/next-step-assistant">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdi-talal-01&repo=next-step-assistant&theme=tokyonight&border_color=7F3FBF&border_radius=10" alt="Next Step Assistant" />
-    </a>
-    <a href="https://mahdi-talal-01.github.io/blood-donation-system-main/">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdi-talal-01&repo=blood-donation-system-main&theme=tokyonight&border_color=7F3FBF&border_radius=10" alt="Blood Donation System" />
-    </a>
-  </div>
+### CV Forge AI
 
-  <!-- NEXT STEP ASSISTANT PROJECT -->
-  <div align="center">
-    <h2>🚀 Next Step Assistant</h2>
-    <p>AI-powered career acceleration platform combining job tracking, skill development, and AI-driven content creation.</p>
-  </div>
+**AI-powered resume builder with smart job matching and LinkedIn integration**
 
-  ### Key Features:
-  - 🤖 **AI Content Generation:** Auto-creates professional job descriptions, LinkedIn posts, and emails
-  - 📊 **Career Guidance:** AI-powered personalized career recommendations and skill analysis
-  - 📧 **Smart Email Tracking:** Automatically monitors and categorizes job application emails
-  - 📈 **Advanced Analytics:** Market trend analysis and personalized skill gap recommendations
+<a href="https://github.com/mahdi-talal-01/cv-forge-ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdi-talal-01&repo=cv-forge-ai&theme=tokyonight&border_color=58A6FF&border_radius=10" />
+</a>
 
-  ### Tech Stack:
-  - ⚛️ **Frontend:** React/Next.js with Tailwind CSS for responsive UI
-  - 🖥️ **Backend:** Node.js/Express with Prisma ORM for type-safe database access
-  - 🧠 **AI Integration:** Custom ML models for personalized recommendations
-  - ☁️ **Deployment:** AWS (EC2, S3) with Docker containerization
-
-  <div align="center">
-    <a href="https://fse-final-mahdi.s3-website.eu-west-3.amazonaws.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
-    </a>
-    <a href="https://github.com/mahdi-talal-01/next-step-assistant" target="_blank">
-      <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-    </a>
-  </div>
-
-  <!-- BLOOD DONATION SYSTEM PROJECT -->
-  <div align="center">
-    <h2>💉 Blood Donation System</h2>
-    <p>Comprehensive medical donation platform improving user experience, data management, and security.</p>
-  </div>
-
-  ### Key Features:
-  - 🩸 **Real-time Tracking:** Live blood donation management and status updates
-  - 🔒 **Secure Authentication:** Role-based access control and data protection
-  - 📊 **Administrative Dashboard:** Comprehensive analytics and reporting system
-  - 📱 **Responsive Design:** Optimized user experience across all devices
-
-  ### Tech Stack:
-  - ⚛️ **Frontend:** React with responsive UI components
-  - 🔥 **Backend:** Node.js with Firebase Realtime Database
-  - 🔐 **Authentication:** Firebase Authentication with email verification
-  - 📊 **Analytics:** Custom-built dashboard with real-time stats
-
-  <div align="center">
-    <a href="https://mahdi-talal-01.github.io/blood-donation-system-main/" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
-    </a>
-    <a href="https://github.com/mahdi-talal-01/blood-donation-system-main" target="_blank">
-      <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-    </a>
-  </div>
 </div>
 
+A full-stack SaaS platform that uses AI to generate tailored resumes, scrape LinkedIn jobs, and manage applications — with Stripe subscriptions, background workers, and an admin dashboard.
 
-<!-- Quote & Connect Section -->
+**What it does:**
+- AI-generated, role-tailored CVs with real-time preview and PDF export
+- LinkedIn job scraping with smart matching to your skills
+- Stripe-powered subscription tiers with admin management
+- Background workers (BullMQ + Redis) for document processing and bulk operations
+- Smart folders, tags, and suggestions to organize job applications
+- Full auth flow with email verification and password reset
+
+**Built with:** Next.js 16 · React 19 · TypeScript · Prisma · PostgreSQL · Redis · BullMQ · OpenAI · Stripe · AWS S3 · NextAuth v5 · Docker · Vitest · Playwright
+
+---
+
+## Other Projects
+
 <div align="center">
-  <h2>🌐 Let's Connect</h2>
-  
-  <p><i>"The only way to do great work is to love what you do."</i> - Steve Jobs</p>
-  
-  <p>Feel free to reach out for collaboration opportunities or just a friendly chat about technology!</p>
-  
-  <a href="mailto:mahditalal.789@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/mahditalal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://react-portfolio-fd769.web.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://discordapp.com/users/mahdi_talal" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  
-  <div align="center">
-    <h4>⚡ Fun fact: I believe every line of code should solve a real problem!</h4>
-    <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'>
-      <img height='45' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' alt='Buy Me a Coffee at ko-fi.com' />
-    </a>
-  </div>
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">Trading Platform</h3>
+        <p align="center">AI-powered stock analysis with Claude, technical indicators, sentiment analysis, chart patterns, and real-time market monitoring.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
+          <img src="https://img.shields.io/badge/Claude_AI-D4A574?style=flat-square&logo=anthropic" />
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        </p>
+        <p align="center">
+          <a href="https://trading-wheat-nine.vercel.app">Live Demo</a> · <a href="https://github.com/mahdi-talal-01/trading">Source Code</a>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">Barber Clinic</h3>
+        <p align="center">SaaS platform for barbershops — POS system, appointments, staff management, client analytics, inventory, loyalty programs, and real-time notifications.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
+          <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+          <img src="https://img.shields.io/badge/Pusher-300D4F?style=flat-square&logo=pusher&logoColor=white" />
+        </p>
+        <p align="center">
+          <a href="https://barber-clinic.vercel.app">Live Demo</a> · <a href="https://github.com/devloadless17/barber-clinic">Source Code</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">Quicky</h3>
+        <p align="center">Delivery & order management system with driver tracking, vendor management, zone-based routing, payment processing, and RBAC.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
+          <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+          <img src="https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white" />
+        </p>
+        <p align="center">
+          <a href="https://quicky-loadless.vercel.app">Live Demo</a> · <a href="https://github.com/devloadless17/quicky">Source Code</a>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">NextStep</h3>
+        <p align="center">Team workspace with attendance tracking, leave management, real-time P2P chat, calendar, AI assistant, and PostHog analytics.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
+          <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io" />
+          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+        </p>
+        <p align="center">
+          <a href="https://nextstep-loadless.vercel.app">Live Demo</a> · <a href="https://github.com/devloadless17/nextstep">Source Code</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">2K+ N8N Template Hub</h3>
+        <p align="center">2000+ production-ready n8n automation templates across 12+ categories — AI content, CRM, e-commerce, DevOps, chatbots, and more.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/Automation-4285F4?style=flat-square" />
+        </p>
+        <p align="center">
+          <a href="https://github.com/mahdi-talal-01/2k-n8n-template-hub">Source Code</a>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">Next Step Assistant</h3>
+        <p align="center">AI career platform — track job applications from email, get skill recommendations, auto-generate LinkedIn posts and professional emails.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+        </p>
+        <p align="center">
+          <a href="http://fse-final-mahdi.s3-website.eu-west-3.amazonaws.com/">Live Demo</a> · <a href="https://github.com/mahdi-talal-01/next-step-assistant">Source Code</a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- Footer -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi-talal-01&theme=tokyonight&hide_border=true&background=0D1117" width="700px" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-talal-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="335px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahdi-talal-01&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400px" />
+
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdi-talal-01&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
 
+---
+
+<div align="center">
+  <p><i>"The only way to do great work is to love what you do."</i></p>
+
+  <a href="mailto:mahditalal.789@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mahditalal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mahditalal.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://discordapp.com/users/mahdi_talal"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
