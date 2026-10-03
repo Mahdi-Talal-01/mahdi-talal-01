@@ -9,7 +9,7 @@
   <!-- SOCIAL BADGES -->
   <br/>
   <a href="mailto:mahditalal.789@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mahditalal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mahdi-talal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://mahditalal.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://discordapp.com/users/mahdi_talal"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
@@ -38,6 +38,9 @@
         <li>Shipping to production with <b>Docker</b>, <b>CI/CD</b>, and <b>Vercel</b></li>
         <li>Currently building: <b>CV Forge AI</b> — AI-powered resume platform</li>
       </ul>
+      <p>
+        Case studies on <a href="https://mahditalal.com">mahditalal.com</a>: the <a href="https://mahditalal.com/work/autonomous-ai-coding-pipeline">Autonomous AI Coding Pipeline</a> and the <a href="https://mahditalal.com/work/google-workspace-mcp-server">Google Workspace MCP Server</a>.
+      </p>
     </td>
     <td width="40%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=mahdi-talal-01&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="100%" />
