@@ -31,7 +31,8 @@
 <circle cx="546" cy="86" r="6" fill="#2743d6"/>
 <text x="562" y="92" font-family='mono,ui-monospace,Menlo,Consolas,monospace' font-size="15" fill="#0a1224" letter-spacing="1.6" font-weight="500">OPEN TO FREELANCE</text>
 <text x="58" y="240" font-family='poster,"Arial Narrow",Arial,sans-serif' font-size="156" font-weight="800" font-stretch="80%" letter-spacing="-2" fill="#0a1224">Mahdi Talal<tspan fill="#2743d6">.</tspan></text>
-<rect class="sweep" style="transform-origin:64px 0" x="64" y="266" width="260" height="11" fill="#ffc300"/>
-<text x="64" y="334" font-family='sans,"Segoe UI",Helvetica,Arial,sans-serif' font-size="29" fill="#0a1224" font-weight="450">Autonomous agentic coding pipelines &amp; production LLM systems</text>
+<rect class="sweep" style="transform-origin:64px 0" x="64" y="264" width="276" height="60" fill="#ffc300"/>
+<text x="72" y="315" font-family='poster,"Arial Narrow",Arial,sans-serif' font-size="64" font-weight="800" font-stretch="80%" letter-spacing="-1" fill="#0a1224">AI Engineer</text>
+<text x="64" y="370" font-family='sans,"Segoe UI",Helvetica,Arial,sans-serif' font-size="24" fill="#4a5368" font-weight="450">Autonomous agentic coding pipelines &amp; production LLM systems</text>
 
 </svg>
